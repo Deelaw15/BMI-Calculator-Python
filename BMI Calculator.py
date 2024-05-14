@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 name = input("Enter your name: ")
 
 weight = int(input("Enter your weight: "))
@@ -30,27 +24,7 @@ else:
         
 
         
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 #BMI = (weight in pounds x 703) / (height in inches x height in inches)
-
-
-# In[ ]:
 
 
 # BMI Range
@@ -62,44 +36,6 @@ Under 18.5	Underweight	Minimal
 35 - 39.9	Severely Obese	Very High
 40 and over	Morbidly Obese	Extremely High
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
