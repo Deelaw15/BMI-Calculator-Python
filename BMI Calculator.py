@@ -1,7 +1,6 @@
+
 name = input("Enter your name: ")
-
 weight = int(input("Enter your weight: "))
-
 height = int(input("Enter your height: "))
 
 BMI = (weight * 703) / (height * height)
@@ -22,10 +21,8 @@ if BMI>0:
 else:
     print(name +", You are morbidly obese. " )
         
-
-        
+       
 #BMI = (weight in pounds x 703) / (height in inches x height in inches)
-
 
 # BMI Range
 
